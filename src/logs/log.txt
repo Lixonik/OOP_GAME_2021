@@ -1,0 +1,845 @@
+2021/11/12	11:56:53	player	coordinates: 10,15	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:56:53	zombie	coordinates: 4,9	is life: YES
+2021/11/12	11:56:53	zombie	coordinates: 5,14	is life: YES
+2021/11/12	11:56:53	goblin	coordinates: 9,18	is life: YES
+2021/11/12	11:56:53	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:56:53	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:56:53	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:56:53	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:56:54	player	coordinates: 11,15	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:56:54	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:56:54	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:56:54	goblin	coordinates: 13,12	is life: YES
+2021/11/12	11:56:54	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:5	player	coordinates: 11,16	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:57:5	zombie	coordinates: 4,9	is life: YES
+2021/11/12	11:57:5	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:5	zombie	coordinates: 5,6	is life: YES
+2021/11/12	11:57:5	zombie	coordinates: 6,9	is life: YES
+2021/11/12	11:57:5	goblin	coordinates: 9,19	is life: YES
+2021/11/12	11:57:5	goblin	coordinates: 13,11	is life: YES
+2021/11/12	11:57:5	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:5	orc	coordinates: 19,19	is life: YES
+2021/11/12	11:57:5	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:8	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:8	zombie	coordinates: 7,9	is life: YES
+2021/11/12	11:57:8	goblin	coordinates: 13,10	is life: YES
+2021/11/12	11:57:8	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:57:8	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:57:8	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:57:9	player	coordinates: 11,15	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:57:9	zombie	coordinates: 5,6	is life: YES
+2021/11/12	11:57:9	zombie	coordinates: 5,13	is life: YES
+2021/11/12	11:57:9	zombie	coordinates: 7,10	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 21,9	is life: YES
+2021/11/12	11:57:9	player	coordinates: 11,14	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:57:9	zombie	coordinates: 7,9	is life: YES
+2021/11/12	11:57:9	goblin	coordinates: 13,11	is life: YES
+2021/11/12	11:57:9	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:9	orc	coordinates: 21,8	is life: YES
+2021/11/12	11:57:10	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:10	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:10	zombie	coordinates: 6,13	is life: YES
+2021/11/12	11:57:10	zombie	coordinates: 7,10	is life: YES
+2021/11/12	11:57:10	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:57:10	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:57:10	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:10	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:10	orc	coordinates: 21,9	is life: YES
+2021/11/12	11:57:12	zombie	coordinates: 5,8	is life: YES
+2021/11/12	11:57:12	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:57:12	zombie	coordinates: 7,13	is life: YES
+2021/11/12	11:57:12	zombie	coordinates: 7,9	is life: YES
+2021/11/12	11:57:12	goblin	coordinates: 13,12	is life: YES
+2021/11/12	11:57:12	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:57:12	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:57:12	orc	coordinates: 21,8	is life: YES
+2021/11/12	11:57:13	player	coordinates: 11,15	hp: 200 / 200	defense: 5	damage: 50
+2021/11/12	11:57:13	zombie	coordinates: 7,10	is life: YES
+2021/11/12	11:57:13	goblin	coordinates: 13,11	is life: YES
+2021/11/12	11:57:13	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:57:13	orc	coordinates: 21,9	is life: YES
+2021/11/12	11:57:14	player	coordinates: 12,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:14	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:14	zombie	coordinates: 7,14	is life: YES
+2021/11/12	11:57:14	zombie	coordinates: 7,11	is life: YES
+2021/11/12	11:57:14	goblin	coordinates: 18,3	is life: YES
+2021/11/12	11:57:14	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:14	orc	coordinates: 21,8	is life: YES
+2021/11/12	11:57:14	sword	coordinates: 12,15	used: YES
+2021/11/12	11:57:15	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:15	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:15	zombie	coordinates: 7,13	is life: YES
+2021/11/12	11:57:15	zombie	coordinates: 6,11	is life: YES
+2021/11/12	11:57:15	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:15	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:57:15	orc	coordinates: 21,7	is life: YES
+2021/11/12	11:57:16	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:57:16	zombie	coordinates: 7,14	is life: YES
+2021/11/12	11:57:16	zombie	coordinates: 5,11	is life: YES
+2021/11/12	11:57:16	goblin	coordinates: 13,12	is life: YES
+2021/11/12	11:57:16	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:57:16	player	coordinates: 13,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:16	zombie	coordinates: 5,10	is life: YES
+2021/11/12	11:57:16	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:57:16	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:57:16	orc	coordinates: 21,12	is life: YES
+2021/11/12	11:57:16	orc	coordinates: 22,7	is life: YES
+2021/11/12	11:57:17	player	coordinates: 14,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:17	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:17	zombie	coordinates: 5,6	is life: YES
+2021/11/12	11:57:17	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:17	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:57:17	orc	coordinates: 21,7	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 6,9	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 7,13	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 5,11	is life: YES
+2021/11/12	11:57:18	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:18	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:57:18	orc	coordinates: 21,6	is life: YES
+2021/11/12	11:57:18	player	coordinates: 15,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:18	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 7,14	is life: YES
+2021/11/12	11:57:18	zombie	coordinates: 5,10	is life: YES
+2021/11/12	11:57:18	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:57:18	orc	coordinates: 21,12	is life: YES
+2021/11/12	11:57:18	orc	coordinates: 21,7	is life: YES
+2021/11/12	11:57:19	player	coordinates: 15,16	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:19	zombie	coordinates: 5,8	is life: YES
+2021/11/12	11:57:19	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:19	zombie	coordinates: 5,6	is life: YES
+2021/11/12	11:57:19	goblin	coordinates: 17,3	is life: YES
+2021/11/12	11:57:19	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:57:19	orc	coordinates: 18,15	is life: YES
+2021/11/12	11:57:19	orc	coordinates: 21,6	is life: YES
+2021/11/12	11:57:20	player	coordinates: 15,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:20	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:57:20	zombie	coordinates: 7,13	is life: YES
+2021/11/12	11:57:20	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:20	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:57:20	goblin	coordinates: 17,2	is life: YES
+2021/11/12	11:57:20	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:57:20	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:57:20	orc	coordinates: 21,5	is life: YES
+2021/11/12	11:57:21	player	coordinates: 15,16	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:21	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 5,5	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 7,14	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 6,9	is life: YES
+2021/11/12	11:57:21	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:21	goblin	coordinates: 17,3	is life: YES
+2021/11/12	11:57:21	orc	coordinates: 22,5	is life: YES
+2021/11/12	11:57:21	player	coordinates: 15,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:21	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 6,5	is life: YES
+2021/11/12	11:57:21	zombie	coordinates: 7,15	is life: YES
+2021/11/12	11:57:21	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:57:21	goblin	coordinates: 18,3	is life: YES
+2021/11/12	11:57:21	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:21	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:57:23	player	coordinates: 14,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:23	zombie	coordinates: 8,15	is life: YES
+2021/11/12	11:57:23	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:23	goblin	coordinates: 13,12	is life: YES
+2021/11/12	11:57:23	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:57:23	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:57:23	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:57:23	player	coordinates: 13,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:23	zombie	coordinates: 6,7	is life: YES
+2021/11/12	11:57:23	zombie	coordinates: 5,10	is life: YES
+2021/11/12	11:57:23	goblin	coordinates: 9,18	is life: YES
+2021/11/12	11:57:23	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:23	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:57:23	orc	coordinates: 17,12	is life: YES
+2021/11/12	11:57:24	player	coordinates: 12,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:24	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:24	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:24	zombie	coordinates: 9,15	is life: YES
+2021/11/12	11:57:24	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:24	goblin	coordinates: 9,17	is life: YES
+2021/11/12	11:57:24	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:24	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:24	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:57:25	player	coordinates: 11,15	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:25	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:25	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:25	zombie	coordinates: 8,5	is life: YES
+2021/11/12	11:57:25	zombie	coordinates: 4,9	is life: YES
+2021/11/12	11:57:25	goblin	coordinates: 9,16	is life: YES
+2021/11/12	11:57:25	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:25	player	coordinates: 11,16	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:25	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:25	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:25	zombie	coordinates: 10,15	is life: YES
+2021/11/12	11:57:25	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:25	orc	coordinates: 21,5	is life: YES
+2021/11/12	11:57:26	player	coordinates: 11,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:26	zombie	coordinates: 5,6	is life: YES
+2021/11/12	11:57:26	zombie	coordinates: 6,5	is life: YES
+2021/11/12	11:57:26	goblin	coordinates: 9,17	is life: YES
+2021/11/12	11:57:26	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:57:26	orc	coordinates: 20,13	is life: YES
+2021/11/12	11:57:26	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:57:26	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:26	orc	coordinates: 22,5	is life: YES
+2021/11/12	11:57:26	player	coordinates: 10,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:26	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:26	zombie	coordinates: 3,9	is life: YES
+2021/11/12	11:57:26	goblin	coordinates: 9,16	is life: YES
+2021/11/12	11:57:26	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:26	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:57:27	player	coordinates: 9,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:27	zombie	coordinates: 5,4	is life: YES
+2021/11/12	11:57:27	zombie	coordinates: 2,9	is life: YES
+2021/11/12	11:57:27	goblin	coordinates: 9,15	is life: YES
+2021/11/12	11:57:27	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:57:27	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:27	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:57:27	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:27	orc	coordinates: 21,5	is life: YES
+2021/11/12	11:57:28	player	coordinates: 8,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:28	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:28	zombie	coordinates: 5,5	is life: YES
+2021/11/12	11:57:28	goblin	coordinates: 8,15	is life: YES
+2021/11/12	11:57:28	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:57:28	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:57:28	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:29	player	coordinates: 7,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:29	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:29	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:29	zombie	coordinates: 5,4	is life: YES
+2021/11/12	11:57:29	zombie	coordinates: 9,15	is life: YES
+2021/11/12	11:57:29	zombie	coordinates: 3,9	is life: YES
+2021/11/12	11:57:29	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:57:29	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:57:29	orc	coordinates: 22,5	is life: YES
+2021/11/12	11:57:33	player	coordinates: 6,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:33	zombie	coordinates: 5,8	is life: YES
+2021/11/12	11:57:33	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:33	zombie	coordinates: 3,8	is life: YES
+2021/11/12	11:57:33	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:33	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:33	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:34	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:57:34	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:34	zombie	coordinates: 3,7	is life: YES
+2021/11/12	11:57:34	goblin	coordinates: 22,3	is life: YES
+2021/11/12	11:57:34	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:34	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:57:35	zombie	coordinates: 5,8	is life: YES
+2021/11/12	11:57:35	zombie	coordinates: 9,16	is life: YES
+2021/11/12	11:57:35	zombie	coordinates: 3,8	is life: YES
+2021/11/12	11:57:35	goblin	coordinates: 9,15	is life: YES
+2021/11/12	11:57:35	goblin	coordinates: 13,13	is life: YES
+2021/11/12	11:57:35	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:57:35	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:57:35	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:36	zombie	coordinates: 5,7	is life: YES
+2021/11/12	11:57:36	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:36	orc	coordinates: 21,5	is life: YES
+2021/11/12	11:57:37	player	coordinates: 7,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:37	zombie	coordinates: 6,7	is life: YES
+2021/11/12	11:57:37	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:57:37	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:37	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:57:37	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:37	orc	coordinates: 21,4	is life: YES
+2021/11/12	11:57:38	player	coordinates: 8,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:38	goblin	coordinates: 22,3	is life: YES
+2021/11/12	11:57:38	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:38	player	coordinates: 9,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:38	zombie	coordinates: 7,7	is life: YES
+2021/11/12	11:57:38	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:38	zombie	coordinates: 3,7	is life: YES
+2021/11/12	11:57:38	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:57:38	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:39	player	coordinates: 10,17	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:57:39	zombie	coordinates: 7,6	is life: YES
+2021/11/12	11:57:39	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:57:39	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:39	zombie	coordinates: 9,17	is life: YES
+2021/11/12	11:57:39	goblin	coordinates: 10,15	is life: YES
+2021/11/12	11:57:39	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:39	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:39	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:39	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:57:42	player	coordinates: 9,17	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:57:42	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:42	zombie	coordinates: 9,17	is life: NO
+2021/11/12	11:57:42	zombie	coordinates: 3,6	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 9,15	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 22,3	is life: YES
+2021/11/12	11:57:42	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:57:42	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:42	player	coordinates: 9,16	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:57:42	zombie	coordinates: 3,4	is life: YES
+2021/11/12	11:57:42	zombie	coordinates: 3,5	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 8,15	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 13,14	is life: YES
+2021/11/12	11:57:42	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:42	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:42	orc	coordinates: 21,5	is life: YES
+2021/11/12	11:57:43	player	coordinates: 9,15	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:57:43	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:57:43	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:57:43	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:43	orc	coordinates: 20,5	is life: YES
+2021/11/12	11:57:44	player	coordinates: 8,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:44	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:44	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:44	zombie	coordinates: 3,6	is life: YES
+2021/11/12	11:57:44	goblin	coordinates: 8,15	is life: NO
+2021/11/12	11:57:44	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:45	player	coordinates: 7,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:45	zombie	coordinates: 6,5	is life: YES
+2021/11/12	11:57:45	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:45	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:45	zombie	coordinates: 3,7	is life: YES
+2021/11/12	11:57:45	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:57:45	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:57:45	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:45	orc	coordinates: 19,5	is life: YES
+2021/11/12	11:57:46	player	coordinates: 7,14	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:46	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:46	zombie	coordinates: 3,6	is life: YES
+2021/11/12	11:57:46	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:57:46	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:57:46	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:46	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:46	orc	coordinates: 19,6	is life: YES
+2021/11/12	11:57:53	zombie	coordinates: 6,5	is life: YES
+2021/11/12	11:57:53	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:57:53	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:53	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:57:53	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:53	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:57:53	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:57:53	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:57:53	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:57:53	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:57:53	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:57:53	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:53	orc	coordinates: 19,7	is life: YES
+2021/11/12	11:57:55	player	coordinates: 7,13	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:55	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:55	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:55	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 19,8	is life: YES
+2021/11/12	11:57:55	player	coordinates: 6,13	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:55	zombie	coordinates: 6,5	is life: YES
+2021/11/12	11:57:55	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:57:55	zombie	coordinates: 3,4	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:55	player	coordinates: 5,13	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:55	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:57:55	zombie	coordinates: 3,7	is life: YES
+2021/11/12	11:57:55	goblin	coordinates: 12,15	is life: YES
+2021/11/12	11:57:55	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:55	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:56	zombie	coordinates: 7,5	is life: YES
+2021/11/12	11:57:56	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:57:56	zombie	coordinates: 3,8	is life: YES
+2021/11/12	11:57:56	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:57:56	orc	coordinates: 19,9	is life: YES
+2021/11/12	11:57:56	player	coordinates: 5,14	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:56	zombie	coordinates: 7,6	is life: YES
+2021/11/12	11:57:56	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:56	zombie	coordinates: 3,9	is life: YES
+2021/11/12	11:57:56	orc	coordinates: 19,10	is life: YES
+2021/11/12	11:57:57	player	coordinates: 5,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:57	zombie	coordinates: 7,7	is life: YES
+2021/11/12	11:57:57	zombie	coordinates: 3,8	is life: YES
+2021/11/12	11:57:57	goblin	coordinates: 11,15	is life: YES
+2021/11/12	11:57:57	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:57	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:57:57	player	coordinates: 5,16	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:57	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:57:57	goblin	coordinates: 11,16	is life: YES
+2021/11/12	11:57:57	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:57:57	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:57:57	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:57:57	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:57:57	orc	coordinates: 19,9	is life: YES
+2021/11/12	11:57:58	zombie	coordinates: 7,6	is life: YES
+2021/11/12	11:57:58	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:57:58	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:57:58	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:57:58	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:57:58	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:57:58	orc	coordinates: 19,10	is life: YES
+2021/11/12	11:57:59	player	coordinates: 5,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:57:59	zombie	coordinates: 7,7	is life: YES
+2021/11/12	11:57:59	zombie	coordinates: 3,4	is life: YES
+2021/11/12	11:57:59	zombie	coordinates: 1,3	is life: YES
+2021/11/12	11:57:59	goblin	coordinates: 11,15	is life: YES
+2021/11/12	11:57:59	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:57:59	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:57:59	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:57:59	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:57:59	orc	coordinates: 19,11	is life: YES
+2021/11/12	11:58:0	player	coordinates: 4,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:0	zombie	coordinates: 6,7	is life: YES
+2021/11/12	11:58:0	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:0	zombie	coordinates: 1,4	is life: YES
+2021/11/12	11:58:0	goblin	coordinates: 12,15	is life: YES
+2021/11/12	11:58:0	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:0	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:58:0	orc	coordinates: 19,10	is life: YES
+2021/11/12	11:58:0	player	coordinates: 3,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:0	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:0	zombie	coordinates: 1,5	is life: YES
+2021/11/12	11:58:0	goblin	coordinates: 21,5	is life: YES
+2021/11/12	11:58:0	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:0	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:58:1	player	coordinates: 3,16	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:1	zombie	coordinates: 7,7	is life: YES
+2021/11/12	11:58:1	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:58:1	goblin	coordinates: 21,6	is life: YES
+2021/11/12	11:58:1	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:1	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:1	orc	coordinates: 18,19	is life: YES
+2021/11/12	11:58:2	player	coordinates: 3,17	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:2	zombie	coordinates: 7,8	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 21,5	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 19,19	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 19,11	is life: YES
+2021/11/12	11:58:2	player	coordinates: 2,17	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:2	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:2	zombie	coordinates: 3,9	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 13,15	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 21,6	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 22,19	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 19,12	is life: YES
+2021/11/12	11:58:2	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:2	zombie	coordinates: 1,4	is life: YES
+2021/11/12	11:58:2	zombie	coordinates: 4,9	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 21,5	is life: YES
+2021/11/12	11:58:2	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:2	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:3	player	coordinates: 1,17	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:3	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:3	zombie	coordinates: 1,3	is life: YES
+2021/11/12	11:58:3	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:58:3	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:58:3	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:58:3	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:3	player	coordinates: 1,16	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:3	zombie	coordinates: 7,9	is life: YES
+2021/11/12	11:58:3	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:3	zombie	coordinates: 5,8	is life: YES
+2021/11/12	11:58:3	goblin	coordinates: 15,15	is life: YES
+2021/11/12	11:58:3	goblin	coordinates: 21,5	is life: YES
+2021/11/12	11:58:3	orc	coordinates: 19,13	is life: YES
+2021/11/12	11:58:4	player	coordinates: 1,15	hp: 115 / 200	defense: 5	damage: 65
+2021/11/12	11:58:4	zombie	coordinates: 1,2	is life: YES
+2021/11/12	11:58:4	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:58:4	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:4	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:58:4	orc	coordinates: 19,12	is life: YES
+2021/11/12	11:58:4	player	coordinates: 1,14	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:4	zombie	coordinates: 6,9	is life: YES
+2021/11/12	11:58:4	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:4	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:58:4	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:58:4	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:58:4	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:4	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:4	orc	coordinates: 19,13	is life: YES
+2021/11/12	11:58:4	med kit	coordinates: 1,14	used: YES
+2021/11/12	11:58:7	player	coordinates: 1,13	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:7	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:7	goblin	coordinates: 15,15	is life: YES
+2021/11/12	11:58:7	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:7	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:7	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:7	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:7	orc	coordinates: 19,14	is life: YES
+2021/11/12	11:58:8	player	coordinates: 1,12	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:8	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:8	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:58:8	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:58:8	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:8	player	coordinates: 1,11	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:8	zombie	coordinates: 7,9	is life: YES
+2021/11/12	11:58:8	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:8	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:8	zombie	coordinates: 6,9	is life: YES
+2021/11/12	11:58:8	goblin	coordinates: 15,15	is life: YES
+2021/11/12	11:58:8	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:8	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:8	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:8	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:9	player	coordinates: 1,10	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:9	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:9	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:9	zombie	coordinates: 5,9	is life: YES
+2021/11/12	11:58:9	goblin	coordinates: 14,15	is life: YES
+2021/11/12	11:58:9	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:9	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:9	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:9	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:9	player	coordinates: 1,9	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:9	zombie	coordinates: 7,10	is life: YES
+2021/11/12	11:58:9	zombie	coordinates: 4,9	is life: YES
+2021/11/12	11:58:9	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:9	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:9	orc	coordinates: 19,16	is life: YES
+2021/11/12	11:58:10	player	coordinates: 2,9	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:10	goblin	coordinates: 15,15	is life: YES
+2021/11/12	11:58:10	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:10	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:10	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:10	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:58:10	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:58:10	player	coordinates: 3,9	hp: 200 / 200	defense: 5	damage: 65
+2021/11/12	11:58:10	zombie	coordinates: 1,2	is life: YES
+2021/11/12	11:58:10	goblin	coordinates: 15,14	is life: YES
+2021/11/12	11:58:10	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:10	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:10	orc	coordinates: 19,19	is life: YES
+2021/11/12	11:58:11	player	coordinates: 4,9	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:58:11	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:11	zombie	coordinates: 4,9	is life: NO
+2021/11/12	11:58:11	orc	coordinates: 18,19	is life: YES
+2021/11/12	11:58:11	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:11	player	coordinates: 5,9	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:58:11	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:11	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:11	orc	coordinates: 19,16	is life: YES
+2021/11/12	11:58:12	player	coordinates: 6,9	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:58:12	zombie	coordinates: 4,3	is life: YES
+2021/11/12	11:58:12	goblin	coordinates: 15,13	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 18,19	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:12	player	coordinates: 7,9	hp: 150 / 200	defense: 5	damage: 65
+2021/11/12	11:58:12	zombie	coordinates: 1,2	is life: YES
+2021/11/12	11:58:12	goblin	coordinates: 15,12	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:12	orc	coordinates: 18,15	is life: YES
+2021/11/12	11:58:13	player	coordinates: 7,10	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:13	zombie	coordinates: 7,10	is life: NO
+2021/11/12	11:58:13	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:58:13	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:13	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:13	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:13	player	coordinates: 7,11	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:13	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:58:13	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:13	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:13	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:58:13	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:58:14	player	coordinates: 7,12	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:14	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:58:14	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:14	goblin	coordinates: 15,11	is life: YES
+2021/11/12	11:58:14	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:58:14	player	coordinates: 7,13	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:14	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:14	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:58:15	player	coordinates: 7,14	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:15	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:15	orc	coordinates: 16,13	is life: YES
+2021/11/12	11:58:15	player	coordinates: 7,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:15	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:58:15	goblin	coordinates: 16,11	is life: YES
+2021/11/12	11:58:15	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:58:15	orc	coordinates: 18,19	is life: YES
+2021/11/12	11:58:15	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:58:15	player	coordinates: 8,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:15	goblin	coordinates: 17,11	is life: YES
+2021/11/12	11:58:15	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:58:15	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:15	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:58:16	player	coordinates: 9,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:16	zombie	coordinates: 1,1	is life: YES
+2021/11/12	11:58:16	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:16	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:58:16	player	coordinates: 10,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:16	goblin	coordinates: 16,11	is life: YES
+2021/11/12	11:58:16	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:58:16	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 18,19	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 16,13	is life: YES
+2021/11/12	11:58:16	player	coordinates: 11,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:16	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:16	goblin	coordinates: 15,11	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:16	orc	coordinates: 17,13	is life: YES
+2021/11/12	11:58:17	player	coordinates: 12,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:17	goblin	coordinates: 16,11	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:58:17	player	coordinates: 13,15	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:17	goblin	coordinates: 15,11	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:17	player	coordinates: 13,14	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:17	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:17	goblin	coordinates: 16,11	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:58:17	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:58:18	player	coordinates: 13,13	hp: 100 / 200	defense: 5	damage: 65
+2021/11/12	11:58:18	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:18	goblin	coordinates: 15,11	is life: YES
+2021/11/12	11:58:18	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:18	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:18	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:58:19	player	coordinates: 14,13	hp: 100 / 200	defense: 15	damage: 65
+2021/11/12	11:58:19	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:58:19	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:19	goblin	coordinates: 15,12	is life: YES
+2021/11/12	11:58:19	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:19	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:19	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:58:19	med kit	coordinates: 14,13	used: YES
+2021/11/12	11:58:20	player	coordinates: 15,13	hp: 100 / 200	defense: 15	damage: 65
+2021/11/12	11:58:20	zombie	coordinates: 5,1	is life: YES
+2021/11/12	11:58:20	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:20	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:20	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:58:20	player	coordinates: 15,12	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:20	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:58:20	goblin	coordinates: 15,12	is life: NO
+2021/11/12	11:58:20	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:20	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:58:20	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:58:20	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:58:22	player	coordinates: 15,11	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:22	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:22	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:22	goblin	coordinates: 19,3	is life: YES
+2021/11/12	11:58:22	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:22	orc	coordinates: 17,19	is life: YES
+2021/11/12	11:58:22	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:58:23	player	coordinates: 16,11	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:23	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:58:23	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:23	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:23	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:23	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:23	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:58:24	player	coordinates: 15,11	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:24	zombie	coordinates: 5,2	is life: YES
+2021/11/12	11:58:24	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:24	orc	coordinates: 17,14	is life: YES
+2021/11/12	11:58:24	player	coordinates: 15,10	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:24	zombie	coordinates: 5,3	is life: YES
+2021/11/12	11:58:24	zombie	coordinates: 1,3	is life: YES
+2021/11/12	11:58:24	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:58:24	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:24	orc	coordinates: 17,18	is life: YES
+2021/11/12	11:58:24	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:58:25	player	coordinates: 15,9	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:25	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:58:25	zombie	coordinates: 1,4	is life: YES
+2021/11/12	11:58:25	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:25	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:58:25	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:58:25	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:58:25	player	coordinates: 14,9	hp: 75 / 200	defense: 15	damage: 65
+2021/11/12	11:58:25	zombie	coordinates: 7,3	is life: YES
+2021/11/12	11:58:25	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:25	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:26	player	coordinates: 13,9	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:26	zombie	coordinates: 6,3	is life: YES
+2021/11/12	11:58:26	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:58:26	orc	coordinates: 18,17	is life: YES
+2021/11/12	11:58:26	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:26	sword	coordinates: 13,9	used: YES
+2021/11/12	11:58:27	player	coordinates: 13,8	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:27	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:27	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:27	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:27	player	coordinates: 13,7	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:27	zombie	coordinates: 7,3	is life: YES
+2021/11/12	11:58:27	zombie	coordinates: 1,5	is life: YES
+2021/11/12	11:58:27	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:27	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:27	orc	coordinates: 19,18	is life: YES
+2021/11/12	11:58:27	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:28	player	coordinates: 13,6	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:28	zombie	coordinates: 7,2	is life: YES
+2021/11/12	11:58:28	zombie	coordinates: 1,4	is life: YES
+2021/11/12	11:58:28	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:28	zombie	coordinates: 7,1	is life: YES
+2021/11/12	11:58:28	zombie	coordinates: 1,3	is life: YES
+2021/11/12	11:58:28	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:58:28	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 22,15	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:28	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:58:29	player	coordinates: 13,5	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:29	zombie	coordinates: 2,3	is life: YES
+2021/11/12	11:58:29	goblin	coordinates: 20,3	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:58:29	player	coordinates: 13,4	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:29	zombie	coordinates: 8,1	is life: YES
+2021/11/12	11:58:29	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:58:29	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:29	player	coordinates: 13,3	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:29	goblin	coordinates: 21,4	is life: YES
+2021/11/12	11:58:29	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:29	player	coordinates: 13,2	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:29	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 17,17	is life: YES
+2021/11/12	11:58:29	player	coordinates: 13,1	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:29	zombie	coordinates: 7,1	is life: YES
+2021/11/12	11:58:29	goblin	coordinates: 21,3	is life: YES
+2021/11/12	11:58:29	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:30	zombie	coordinates: 8,1	is life: YES
+2021/11/12	11:58:30	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:30	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:30	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:30	orc	coordinates: 17,16	is life: YES
+2021/11/12	11:58:30	player	coordinates: 14,1	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:30	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:30	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:58:30	orc	coordinates: 17,15	is life: YES
+2021/11/12	11:58:31	player	coordinates: 15,1	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:31	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:31	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:31	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:31	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:31	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:31	orc	coordinates: 18,15	is life: YES
+2021/11/12	11:58:31	player	coordinates: 15,2	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:31	zombie	coordinates: 2,1	is life: YES
+2021/11/12	11:58:31	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:31	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:31	orc	coordinates: 21,19	is life: YES
+2021/11/12	11:58:32	player	coordinates: 15,3	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:32	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:32	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:32	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:32	player	coordinates: 15,4	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:32	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:32	player	coordinates: 15,5	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:32	zombie	coordinates: 9,1	is life: YES
+2021/11/12	11:58:32	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:32	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:58:32	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:32	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:32	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:32	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:33	player	coordinates: 15,6	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:33	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:33	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 19,14	is life: YES
+2021/11/12	11:58:33	player	coordinates: 15,7	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:33	zombie	coordinates: 9,2	is life: YES
+2021/11/12	11:58:33	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:33	orc	coordinates: 19,13	is life: YES
+2021/11/12	11:58:34	player	coordinates: 15,8	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:34	zombie	coordinates: 9,3	is life: YES
+2021/11/12	11:58:34	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 19,17	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 22,17	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 19,12	is life: YES
+2021/11/12	11:58:34	player	coordinates: 15,9	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:34	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:34	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 20,17	is life: YES
+2021/11/12	11:58:34	player	coordinates: 15,10	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:34	zombie	coordinates: 9,2	is life: YES
+2021/11/12	11:58:34	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 19,15	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 19,13	is life: YES
+2021/11/12	11:58:34	player	coordinates: 15,11	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:34	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:34	orc	coordinates: 20,13	is life: YES
+2021/11/12	11:58:35	player	coordinates: 15,12	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:35	zombie	coordinates: 9,1	is life: YES
+2021/11/12	11:58:35	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 19,13	is life: YES
+2021/11/12	11:58:35	player	coordinates: 15,13	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:35	zombie	coordinates: 10,1	is life: YES
+2021/11/12	11:58:35	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 20,13	is life: YES
+2021/11/12	11:58:35	player	coordinates: 15,14	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:35	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:35	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,13	is life: YES
+2021/11/12	11:58:35	player	coordinates: 15,15	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:35	zombie	coordinates: 9,1	is life: YES
+2021/11/12	11:58:35	goblin	coordinates: 21,2	is life: YES
+2021/11/12	11:58:35	orc	coordinates: 21,14	is life: YES
+2021/11/12	11:58:36	player	coordinates: 15,16	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:36	zombie	coordinates: 10,1	is life: YES
+2021/11/12	11:58:36	zombie	coordinates: 3,1	is life: YES
+2021/11/12	11:58:36	goblin	coordinates: 19,2	is life: YES
+2021/11/12	11:58:36	orc	coordinates: 21,15	is life: YES
+2021/11/12	11:58:36	orc	coordinates: 21,16	is life: YES
+2021/11/12	11:58:37	player	coordinates: 15,15	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:37	zombie	coordinates: 11,1	is life: YES
+2021/11/12	11:58:37	zombie	coordinates: 3,2	is life: YES
+2021/11/12	11:58:37	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:37	goblin	coordinates: 19,1	is life: YES
+2021/11/12	11:58:37	orc	coordinates: 21,17	is life: YES
+2021/11/12	11:58:37	player	coordinates: 14,15	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:37	zombie	coordinates: 11,2	is life: YES
+2021/11/12	11:58:37	goblin	coordinates: 22,1	is life: YES
+2021/11/12	11:58:37	goblin	coordinates: 20,1	is life: YES
+2021/11/12	11:58:38	player	coordinates: 13,15	hp: 75 / 200	defense: 15	damage: 80
+2021/11/12	11:58:38	zombie	coordinates: 3,3	is life: YES
+2021/11/12	11:58:38	goblin	coordinates: 21,1	is life: YES
+2021/11/12	11:58:38	orc	coordinates: 20,15	is life: YES
+2021/11/12	11:58:38	orc	coordinates: 21,18	is life: YES
+2021/11/12	11:58:38	orc	coordinates: 21,15	is life: YES
